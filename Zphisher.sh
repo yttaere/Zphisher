@@ -1,2 +1,1 @@
 Zphisher.sh
-bash.sh
